@@ -1,4 +1,4 @@
-# SASVAR_REP_dataset
+# BrandWaste Dataset
 Dataset for brand prediction in wastes. Given the file github file size restriction some files are stored in Google Drive. The structure of this repository is as follow:
 
 - **Images:** DST images [(Link)](https://drive.google.com/drive/folders/1VVva6noF_HAQFNRa0R9aW32Iv0CAi6te?usp=sharing)
